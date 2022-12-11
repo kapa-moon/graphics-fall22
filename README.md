@@ -3,3 +3,5 @@
 
 ### Ray tracing - Basics
 ### Ray tracing - Reflection & Refraction
+### Animation
+### Splines
